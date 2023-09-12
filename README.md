@@ -16,6 +16,21 @@ Bonyah makes the construction process easier by providing access to a wide range
 The platform helps to reduce costs and improve efficiency by providing access to more competitive bids and more efficient project management.
 Bonyah contributes to improving building quality by providing access to the latest technologies and practices.
 
+I Work on :
+
+1 - All Admin End points
+2 - All Auth End points
+3 - Pay Invoices 
+4 - create models an relations 
+5 - create DTO 
+6 - send complaints 
+
+
+
+//
+//
+//
+//
 Class Digram : 
 ![Class Digram](https://github.com/NasserNaif/Bonyah_Project/assets/96125347/dd32a174-c97b-4814-9a05-3f2c0526a6a9)
 
@@ -37,12 +52,5 @@ workspace Postman :
 ![Postman](https://github.com/NasserNaif/Bonyah_Project/assets/96125347/cd6a45d6-1971-4b1f-aa63-446c097063ee)
 
 
-I Work on :
 
-1 - All Admin End points
-2 - All Auth End points
-3 - Pay Invoices 
-4 - create models an relations 
-5 - create DTO 
-6 - send complaints 
 
