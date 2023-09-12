@@ -18,12 +18,12 @@ Bonyah contributes to improving building quality by providing access to the late
 
 I Work on :
 
-1 - All Admin End points -- 
-2 - All Auth End points -- 
-3 - Pay Invoices -- 
-4 - create models an relations -- 
-5 - create DTO -- 
-6 - send complaints -- 
+1 - All Admin End points   
+2 - All Auth End points   
+3 - Pay Invoices   
+4 - create models an relations   
+5 - create DTO   
+6 - send complaints 
 
 
 
